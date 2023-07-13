@@ -1,4 +1,4 @@
-# fiboncci
+# Fiboncci
  programa em C# que calcula a sequência de Fibonacci e verifica se o número informado pertence ou não a sequência Fibonacci.
  
 Neste programa, primeiro solicitamos ao usuário que digite um número. 
